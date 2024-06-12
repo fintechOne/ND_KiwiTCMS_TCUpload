@@ -1,9 +1,9 @@
 # KiwiTCMS_TCUpload
 
----
+--
 How to run from Python Environment Windows Machine:
 python create_tc.py tc_banking.csv
----
+--
 
 The README for the KiwiTCMS import plugin on GitHub provides the following instructions:
 
