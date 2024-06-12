@@ -128,10 +128,10 @@ if __name__ == '__main__':
     password: str = tcms_config['tcms']['password']
     url: str = tcms_config['tcms']['url']
 
-    # Print the configuration values
-    print(f"Username: {username}")
-    print(f"Password: {password}")
-    print(f"URL: {url}")
+    # # Print the configuration values
+    # print(f"Username: {username}")
+    # print(f"Password: {password}")
+    # print(f"URL: {url}")
 
 
     job = TCCreator()
