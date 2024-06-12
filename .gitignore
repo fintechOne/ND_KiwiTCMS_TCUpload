@@ -391,14 +391,14 @@ $RECYCLE.BIN/
 .tcms.conf*
 
 # Ignore all files in the template folder
-/template/*
-# Do not ignore fileA in the template folder
-!/template/TC - Demo.csv
-
-# Ignore all files in the template folder
 /results/*
 # Do not ignore fileA in the template folder
 !/results/TC - Demo_TC_result.txt
+
+# Ignore all files in the template folder
+/template/*
+# Do not ignore fileA in the template folder
+!/template/TC - Demo.csv
 
 # Personal notes
 KnowHow.txt
